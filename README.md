@@ -1,4 +1,8 @@
 #Todo List App - Teste para vaga de front end jr
+Protótipo FIGMA: https://www.figma.com/design/zE5Jobj5fILVsBsZvJInxc?node-id=0-1 
+
+![image](https://github.com/user-attachments/assets/639ea6d7-a81c-4dd2-983c-bc2e446e8027)
+
 
 Este é um projeto de uma aplicação web de lista de tarefas (Todo List) desenvolvido com Vue.js para a vaga de Dev front end jr. A aplicação permite gerenciar tarefas diárias de forma simples e intuitiva, com funcionalidades adicionais como sugestões automáticas de tarefas.
 
